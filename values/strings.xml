@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="don_t_have_an_account_register_here">Don\'t have an account?Register here</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_id1">Email id</string>
+    <string name="password1">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_registered_login_here">Already Registered?Login Here</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">ToDo</string>
+    <string name="welcome_to_todo_app_an_task_management_application">Welcome to ToDo app an Task Management Application</string>
+    <string name="log_in1">Log in</string>
+    <string name="sign_up1">Sign up</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="task">Task</string>
+    <string name="description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="date">Date</string>
+    <string name="task1">Task</string>
+    <string name="description1">Description</string>
+    <string name="update_task">Update Task</string>
+    <string name="task2">Task</string>
+    <string name="task">Task</string>
+    <string name="description">Description</string>
+    <string name="description">Description</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+</resources>
